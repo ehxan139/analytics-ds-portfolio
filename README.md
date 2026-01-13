@@ -2,7 +2,7 @@
 
 Comprehensive portfolio showcasing analytics, data science, and machine learning expertise across 5 production-ready projects. Each project demonstrates end-to-end analytical thinking: from business problem definition to technical implementation to actionable insights with quantified ROI.
 
-## 🎯 Portfolio Highlights
+## Portfolio Highlights
 
 - **5 Production-Ready Projects** covering statistical analysis, ML classification, customer segmentation, A/B testing, and dimensionality reduction
 - **Business-Focused Approach** with ROI quantification and stakeholder-ready insights
@@ -12,7 +12,7 @@ Comprehensive portfolio showcasing analytics, data science, and machine learning
 
 ---
 
-## 📂 Project Catalog
+## Project Catalog
 
 ### 1. Statistical Analysis & Hypothesis Testing
 **Business Problem**: Validate marketing campaign effectiveness and product performance differences
@@ -51,7 +51,7 @@ Comprehensive portfolio showcasing analytics, data science, and machine learning
 
 ---
 
-## 🎓 Academic Foundation
+## Academic Foundation
 
 This portfolio draws from **Georgia Tech's Master of Science in Analytics (OMSA)** program, integrating coursework from:
 
@@ -66,7 +66,7 @@ This portfolio draws from **Georgia Tech's Master of Science in Analytics (OMSA)
 
 ---
 
-## 💼 Business Impact Summary
+## Business Impact Summary
 
 | Domain | Total Impact | Key Metrics |
 |--------|-------------|-------------|
@@ -78,7 +78,7 @@ This portfolio draws from **Georgia Tech's Master of Science in Analytics (OMSA)
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 ### Programming & Tools
 - **Languages**: Python (primary), SQL
@@ -106,7 +106,7 @@ This portfolio draws from **Georgia Tech's Master of Science in Analytics (OMSA)
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Total Projects**: 5
 - **Lines of Code**: 3,000+
@@ -116,7 +116,7 @@ This portfolio draws from **Georgia Tech's Master of Science in Analytics (OMSA)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Each project is self-contained with:
 - **README.md**: Comprehensive business context, methodology, results, and ROI analysis
@@ -143,7 +143,7 @@ python src/hypothesis_tests.py
 
 ---
 
-## 🎯 For Recruiters & Hiring Managers
+## For Recruiters & Hiring Managers
 
 ### Looking for Statistical Rigor?
 → **Projects 1, 5** showcase hypothesis testing, regression analysis, power analysis, and experimental design
